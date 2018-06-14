@@ -1,0 +1,1 @@
+from module.diabetes_knn import *
